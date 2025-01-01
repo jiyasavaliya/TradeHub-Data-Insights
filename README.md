@@ -118,5 +118,5 @@ The dashboard offers a comprehensive view of business performance, enabling user
    ```bash
    git clone https://github.com/jiyasavaliya/tradehub-data-insights.git
 
-- **Email Support**:  
-  You can contact the BI team directly at [jiyasavaliya55@gmail.com](mailto:bi-jiyasavaliya55@gmail.com) for technical support or inquiries.
+## Contact Information
+- **Email**: [jiyasavaliya55@gmail.com](mailto:jiyasavaliya55@gmail.com)
