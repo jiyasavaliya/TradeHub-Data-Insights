@@ -128,10 +128,6 @@ We welcome contributions to TradeHub Data Insights! If you have any ideas, sugge
     ```
 5. **Open a pull request**.
 
-## License
-
-This project is licensed under the MIT License. See the [MIT License](LICENSE) file for details.
-
 ## Contact
 
 For any questions or inquiries, please contact [jiya-savaliya](https://github.com/jiya-savaliya).
