@@ -11,7 +11,6 @@ The dashboard offers a comprehensive view of business performance, enabling user
 
 ## Key Features
 <br>
-
 ### Sales Performance Analytics
 <br>
 
