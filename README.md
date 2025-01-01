@@ -7,9 +7,9 @@
 **TradeHub Data Insights** is a sophisticated business intelligence dashboard that provides in-depth, real-time analytics across key business dimensions, including sales performance, customer demographics, product insights, and store operations. This tool is designed to empower decision-makers by offering clear, data-driven insights that drive business growth and operational efficiency.
 
 The dashboard offers a comprehensive view of business performance, enabling users to monitor critical metrics and trends, and make informed decisions based on up-to-date data.
+<br>
 
 ## Key Features
-<br>
 
 ### Sales Performance Analytics
 <br>
