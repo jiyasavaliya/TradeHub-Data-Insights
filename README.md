@@ -120,4 +120,4 @@ The dashboard offers a comprehensive view of business performance, enabling user
 
 - **Email Support:**:
   
-You can contact the BI team directly at [jiyasavaliya55@gmail.com](mailto:jiyasavaliya55@gmail.com) for technical support or inquiries.
+    You can contact the BI team directly at [jiyasavaliya55@gmail.com](mailto:jiyasavaliya55@gmail.com) for technical support or inquiries.
