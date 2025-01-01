@@ -134,7 +134,6 @@ The dashboard offers a comprehensive view of business performance, enabling user
     stats = analyzer.calculate_statistics(processed_data)
     print(stats)
     ```
-
 ## Contributing
 
 We welcome contributions to TradeHub Data Insights! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. Follow these steps to contribute:
