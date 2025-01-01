@@ -11,7 +11,7 @@ The dashboard offers a comprehensive view of business performance, enabling user
 
 <br>
 
-![Sales Performance Dashboard](https://github.com/user-attachments/assets/989890e3-b620-405a-8a2b-7a400d470304)
+![Screenshot (151)](https://github.com/user-attachments/assets/486fa9f4-96f2-412e-91e8-8a1233c306df)
 
 
 <br>
