@@ -33,7 +33,7 @@ The dashboard offers a comprehensive view of business performance, enabling user
 
 <br>
 
-![Screenshot (152)](https://github.com/user-attachments/assets/59a5ff94-b810-4092-818e-ebb7cbd30003)
+![Screenshot (158)](https://github.com/user-attachments/assets/966aee33-f970-493c-8ad9-bd34daa7120e)
 
 <br>
 
