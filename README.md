@@ -11,7 +11,8 @@ The dashboard offers a comprehensive view of business performance, enabling user
 
 <br>
 
-![Screenshot (151)](https://github.com/user-attachments/assets/989890e3-b620-405a-8a2b-7a400d470304)
+![Sales Performance Dashboard](![Screenshot (151)](https://github.com/user-attachments/assets/989890e3-b620-405a-8a2b-7a400d470304)
+) 
 
 <br>
 
@@ -28,7 +29,8 @@ The dashboard offers a comprehensive view of business performance, enabling user
 
 <br>
 
-![Screenshot (152)](https://github.com/user-attachments/assets/92f64168-f3b8-4372-ae26-ca5c80a82d60)
+![Customer Demographics Dashboard](![Screenshot (152)](https://github.com/user-attachments/assets/92f64168-f3b8-4372-ae26-ca5c80a82d60)
+)  
 
 <br>
 
@@ -44,7 +46,8 @@ The dashboard offers a comprehensive view of business performance, enabling user
 
 <br>
 
-![Screenshot (153)](https://github.com/user-attachments/assets/772b9c55-20b2-46b0-b503-5bbdd44b95cb)
+![Product Insights Dashboard](![Screenshot (153)](https://github.com/user-attachments/assets/772b9c55-20b2-46b0-b503-5bbdd44b95cb)
+) 
 
 <br>
 
@@ -60,7 +63,8 @@ The dashboard offers a comprehensive view of business performance, enabling user
 
 <br>
 
-![Screenshot (154)](https://github.com/user-attachments/assets/c38e7fee-57be-4b68-865f-d81d41725c43)
+![Store Operations Dashboard](![Screenshot (154)](https://github.com/user-attachments/assets/c38e7fee-57be-4b68-865f-d81d41725c43)
+)  
 
 <br>
 
