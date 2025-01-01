@@ -130,7 +130,7 @@ We welcome contributions to TradeHub Data Insights! If you have any ideas, sugge
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [MIT License](LICENSE) file for details.
 
 ## Contact
 
