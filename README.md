@@ -1,9 +1,13 @@
 # TradeHub Data Insights Dashboard
 
+## DashBord Link: https://app.powerbi.com/groups/b158e878-b19d-4ff8-a670-209d8cd88334/reports/fe7509a5-d5ae-4bf1-9ce8-2d595a6082cf?ctid=365d5d36-6c0a-407b-ac40-67a602fef88b&pbi_source=linkShare
+
+
 ## Overview
 **TradeHub Data Insights** is a sophisticated business intelligence dashboard that provides in-depth, real-time analytics across key business dimensions, including sales performance, customer demographics, product insights, and store operations. This tool is designed to empower decision-makers by offering clear, data-driven insights that drive business growth and operational efficiency.
 
 The dashboard offers a comprehensive view of business performance, enabling users to monitor critical metrics and trends, and make informed decisions based on up-to-date data.
+
 
 ## Key Features
 
