@@ -12,6 +12,7 @@ The dashboard offers a comprehensive view of business performance, enabling user
 
 ### Sales Performance Analytics
 <br>
+
 ![Sales Performance](https://github.com/user-attachments/assets/486fa9f4-96f2-412e-91e8-8a1233c306df)
 - **Total Sales Overview**: $1.76M – Analyze the overall revenue across regions and time periods.
 - **Profit Insights**: $1.05M – Track profitability at a granular level.
