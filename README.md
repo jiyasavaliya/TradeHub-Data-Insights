@@ -128,9 +128,6 @@ We welcome contributions to TradeHub Data Insights! If you have any ideas, sugge
     ```
 5. **Open a pull request**.
 
-## Contact
-
-For any questions or inquiries, please contact [jiya-savaliya](https://github.com/jiya-savaliya).
 
 ## Email Support
 You can contact the BI team directly at [jiyasavaliya55@gmail.com](mailto:jiyasavaliya55@gmail.com) for technical support or inquiries.
