@@ -9,6 +9,7 @@
 The dashboard offers a comprehensive view of business performance, enabling users to monitor critical metrics and trends, and make informed decisions based on up-to-date data.
 
 ## Key Features
+<br>
 
 ### Sales Performance Analytics
 <br>
