@@ -118,5 +118,6 @@ The dashboard offers a comprehensive view of business performance, enabling user
    ```bash
    git clone https://github.com/jiyasavaliya/tradehub-data-insights.git
 
-## Contact Information
-- **Email**: [jiyasavaliya55@gmail.com](mailto:jiyasavaliya55@gmail.com)
+- **Email Support:**:
+
+  [jiyasavaliya55@gmail.com](mailto:jiyasavaliya55@gmail.com)
