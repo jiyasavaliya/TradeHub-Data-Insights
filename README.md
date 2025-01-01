@@ -77,6 +77,7 @@ The dashboard offers a comprehensive view of business performance, enabling user
 <br>
 
 ## Getting Started
+<br>
 
 ### Prerequisites
 - **Power BI Desktop**: Required for opening, editing, and publishing the Power BI reports.
@@ -86,6 +87,8 @@ The dashboard offers a comprehensive view of business performance, enabling user
 <br>
 
 ### Installation Instructions
+<br>
+
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/jiyasavaliya/tradehub-data-insights.git
