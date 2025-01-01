@@ -71,12 +71,16 @@ The dashboard offers a comprehensive view of business performance, enabling user
 - **Store Information**: Location-based store performance, type, and size metrics.
 - **Regional Sales Data**: Breakdown of sales by region, including returns data.
 
+<br>
+
 ## Getting Started
 
 ### Prerequisites
 - **Power BI Desktop**: Required for opening, editing, and publishing the Power BI reports.
 - **SQL Server**: Necessary to connect to and query the data stored in the company’s database.
 - **Data Warehouse Access**: Ensure you have proper access to the company’s data warehouse for data integration.
+
+<br>
 
 ### Installation Instructions
 1. **Clone the Repository**:
@@ -97,6 +101,8 @@ The dashboard offers a comprehensive view of business performance, enabling user
 4. **Access the Dashboard**:  
     Open the provided Power BI link to view the TradeHub Data Insights dashboard:  
     [TradeHub Data Insights Dashboard](https://app.powerbi.com/groups/b158e878-b19d-4ff8-a670-209d8cd88334/reports/fe7509a5-d5ae-4bf1-9ce8-2d595a6082cf?ctid=365d5d36-6c0a-407b-ac40-67a602fef88b&pbi_source=linkShare)
+
+<br>
 
 ## Usage
 
