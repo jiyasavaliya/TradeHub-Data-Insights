@@ -158,5 +158,8 @@ We welcome contributions to TradeHub Data Insights! If you have any ideas, sugge
 
 <br>
 
+## License
+This project is licensed under the MIT License. See the [MIT License](LICENSE) file for more information.
+
 ## Email Support
 You can contact the BI team directly at [jiyasavaliya55@gmail.com](mailto:jiyasavaliya55@gmail.com) for technical support or inquiries.
